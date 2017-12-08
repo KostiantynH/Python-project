@@ -1,5 +1,5 @@
 # Python-project
-This program performs parsing of the OLX trading platform for "iphone-X".
+This program performs parsing of the OLX trading platform for "iphone-X"./n
 The basic URL components are written in the program, and they search in the category of mobile devices.
 Requests for relevant URLs receive page data and are processed.
 All of the functions and objects used belong to the standard Python 3.6 objects and objects.
