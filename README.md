@@ -7,8 +7,8 @@ To write the code, the text editor "Notepad ++" and the compiler from the offici
 The graphical interface contains 14 objects "label", 1 object "Text" and two objects "Button".
 
 
-def get_html (url): - get a page
-def get_last_page (html): - Selects the serial number of the last page
-def write_csv (data): - write to file
-def get_page_data (html): - select the information on the announcements on the current page
-def main (console): - the main function which is called when the buttons are pressed and uses all of the above functions for obtaining data
+ -  def get_html (url): - get a page
+ - def get_last_page (html): - Selects the serial number of the last page
+ - def write_csv (data): - write to file
+ - def get_page_data (html): - select the information on the announcements on the current page
+ - def main (console): - the main function which is called when the buttons are pressed and uses all of the above functions for obtaining data
